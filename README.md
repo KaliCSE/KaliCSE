@@ -1,6 +1,6 @@
-# KaliCSE
+# Kaliraj K
 
-Hi 👋, I’m **Kali Raj**, a passionate **Software Developer** currently working at **Klyonix Tech Consulting Pvt Ltd**.  
+Hi 👋, I’m **Kaliraj K**, a passionate **Software Developer** currently working at **Klyonix Tech Consulting Pvt Ltd**.  
 I enjoy building scalable web applications and learning new technologies to solve real-world problems.  
 
 ---
